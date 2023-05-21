@@ -1,0 +1,15 @@
+/Users/Marianna/Desktop/C# Homework 1 Makhmudyan/Задача 6/bin/Debug/net6.0/Задача 6
+/Users/Marianna/Desktop/C# Homework 1 Makhmudyan/Задача 6/bin/Debug/net6.0/Задача 6.deps.json
+/Users/Marianna/Desktop/C# Homework 1 Makhmudyan/Задача 6/bin/Debug/net6.0/Задача 6.runtimeconfig.json
+/Users/Marianna/Desktop/C# Homework 1 Makhmudyan/Задача 6/bin/Debug/net6.0/Задача 6.dll
+/Users/Marianna/Desktop/C# Homework 1 Makhmudyan/Задача 6/bin/Debug/net6.0/Задача 6.pdb
+/Users/Marianna/Desktop/C# Homework 1 Makhmudyan/Задача 6/obj/Debug/net6.0/Задача 6.csproj.AssemblyReference.cache
+/Users/Marianna/Desktop/C# Homework 1 Makhmudyan/Задача 6/obj/Debug/net6.0/Задача 6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Marianna/Desktop/C# Homework 1 Makhmudyan/Задача 6/obj/Debug/net6.0/Задача 6.AssemblyInfoInputs.cache
+/Users/Marianna/Desktop/C# Homework 1 Makhmudyan/Задача 6/obj/Debug/net6.0/Задача 6.AssemblyInfo.cs
+/Users/Marianna/Desktop/C# Homework 1 Makhmudyan/Задача 6/obj/Debug/net6.0/Задача 6.csproj.CoreCompileInputs.cache
+/Users/Marianna/Desktop/C# Homework 1 Makhmudyan/Задача 6/obj/Debug/net6.0/Задача 6.dll
+/Users/Marianna/Desktop/C# Homework 1 Makhmudyan/Задача 6/obj/Debug/net6.0/refint/Задача 6.dll
+/Users/Marianna/Desktop/C# Homework 1 Makhmudyan/Задача 6/obj/Debug/net6.0/Задача 6.pdb
+/Users/Marianna/Desktop/C# Homework 1 Makhmudyan/Задача 6/obj/Debug/net6.0/Задача 6.genruntimeconfig.cache
+/Users/Marianna/Desktop/C# Homework 1 Makhmudyan/Задача 6/obj/Debug/net6.0/ref/Задача 6.dll
