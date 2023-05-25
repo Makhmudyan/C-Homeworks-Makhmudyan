@@ -8,7 +8,6 @@
 Console.Clear();
 Console.WriteLine("Введите число: ");
 long number = long.Parse (Console.ReadLine());
-int index = 0;
 
 if (Math.Abs((number) / 100) % 10 == 0)
 {
@@ -19,7 +18,6 @@ else
     while (Math.Abs((number) / 1000) != 0)
     {
         number = number / 10;
-        index++;
     }
+Console.WriteLine($"Третья цифра {Math.Abs(number) % 10}");
 }
-Console.WriteLine($"{Math.Abs(number) % 10}");

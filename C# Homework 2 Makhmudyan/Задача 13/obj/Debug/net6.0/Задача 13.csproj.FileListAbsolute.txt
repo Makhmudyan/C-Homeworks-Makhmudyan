@@ -13,3 +13,18 @@
 /Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/Задача 13/obj/Debug/net6.0/Задача 13.pdb
 /Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/Задача 13/obj/Debug/net6.0/Задача 13.genruntimeconfig.cache
 /Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/Задача 13/obj/Debug/net6.0/ref/Задача 13.dll
+/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 2 Makhmudyan/Задача 13/bin/Debug/net6.0/Задача 13
+/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 2 Makhmudyan/Задача 13/bin/Debug/net6.0/Задача 13.deps.json
+/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 2 Makhmudyan/Задача 13/bin/Debug/net6.0/Задача 13.runtimeconfig.json
+/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 2 Makhmudyan/Задача 13/bin/Debug/net6.0/Задача 13.dll
+/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 2 Makhmudyan/Задача 13/bin/Debug/net6.0/Задача 13.pdb
+/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 2 Makhmudyan/Задача 13/obj/Debug/net6.0/Задача 13.csproj.AssemblyReference.cache
+/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 2 Makhmudyan/Задача 13/obj/Debug/net6.0/Задача 13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 2 Makhmudyan/Задача 13/obj/Debug/net6.0/Задача 13.AssemblyInfoInputs.cache
+/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 2 Makhmudyan/Задача 13/obj/Debug/net6.0/Задача 13.AssemblyInfo.cs
+/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 2 Makhmudyan/Задача 13/obj/Debug/net6.0/Задача 13.csproj.CoreCompileInputs.cache
+/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 2 Makhmudyan/Задача 13/obj/Debug/net6.0/Задача 13.dll
+/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 2 Makhmudyan/Задача 13/obj/Debug/net6.0/refint/Задача 13.dll
+/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 2 Makhmudyan/Задача 13/obj/Debug/net6.0/Задача 13.pdb
+/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 2 Makhmudyan/Задача 13/obj/Debug/net6.0/Задача 13.genruntimeconfig.cache
+/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 2 Makhmudyan/Задача 13/obj/Debug/net6.0/ref/Задача 13.dll

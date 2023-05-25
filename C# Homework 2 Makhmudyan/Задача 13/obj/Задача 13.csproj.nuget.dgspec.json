@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/Задача 13/Задача 13.csproj": {}
+    "/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 2 Makhmudyan/Задача 13/Задача 13.csproj": {}
   },
   "projects": {
-    "/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/Задача 13/Задача 13.csproj": {
+    "/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 2 Makhmudyan/Задача 13/Задача 13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/Задача 13/Задача 13.csproj",
+        "projectUniqueName": "/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 2 Makhmudyan/Задача 13/Задача 13.csproj",
         "projectName": "Задача 13",
-        "projectPath": "/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/Задача 13/Задача 13.csproj",
+        "projectPath": "/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 2 Makhmudyan/Задача 13/Задача 13.csproj",
         "packagesPath": "/Users/Marianna/.nuget/packages/",
-        "outputPath": "/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/Задача 13/obj/",
+        "outputPath": "/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 2 Makhmudyan/Задача 13/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Marianna/.nuget/NuGet/NuGet.Config"
