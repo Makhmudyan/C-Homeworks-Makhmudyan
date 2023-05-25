@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/Задача 15/Задача 15.csproj",
+      "projectUniqueName": "/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 2 Makhmudyan/Задача 15/Задача 15.csproj",
       "projectName": "Задача 15",
-      "projectPath": "/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/Задача 15/Задача 15.csproj",
+      "projectPath": "/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 2 Makhmudyan/Задача 15/Задача 15.csproj",
       "packagesPath": "/Users/Marianna/.nuget/packages/",
-      "outputPath": "/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/Задача 15/obj/",
+      "outputPath": "/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 2 Makhmudyan/Задача 15/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Marianna/.nuget/NuGet/NuGet.Config"
