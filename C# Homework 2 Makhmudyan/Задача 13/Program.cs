@@ -9,7 +9,7 @@ Console.Clear();
 Console.WriteLine("Введите число: ");
 long number = long.Parse (Console.ReadLine());
 
-if (Math.Abs((number) / 100) % 10 == 0)
+if (Math.Abs(number) / 100 == 0)
 {
     Console.WriteLine("Третьей цифры нет");
 }
