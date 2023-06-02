@@ -1,0 +1,15 @@
+/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 4 Makhmudyan/Задача 29/obj/Debug/net6.0/Задача 29.csproj.AssemblyReference.cache
+/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 4 Makhmudyan/Задача 29/obj/Debug/net6.0/Задача 29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 4 Makhmudyan/Задача 29/obj/Debug/net6.0/Задача 29.AssemblyInfoInputs.cache
+/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 4 Makhmudyan/Задача 29/obj/Debug/net6.0/Задача 29.AssemblyInfo.cs
+/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 4 Makhmudyan/Задача 29/obj/Debug/net6.0/Задача 29.csproj.CoreCompileInputs.cache
+/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 4 Makhmudyan/Задача 29/bin/Debug/net6.0/Задача 29
+/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 4 Makhmudyan/Задача 29/bin/Debug/net6.0/Задача 29.deps.json
+/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 4 Makhmudyan/Задача 29/bin/Debug/net6.0/Задача 29.runtimeconfig.json
+/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 4 Makhmudyan/Задача 29/bin/Debug/net6.0/Задача 29.dll
+/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 4 Makhmudyan/Задача 29/bin/Debug/net6.0/Задача 29.pdb
+/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 4 Makhmudyan/Задача 29/obj/Debug/net6.0/Задача 29.dll
+/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 4 Makhmudyan/Задача 29/obj/Debug/net6.0/refint/Задача 29.dll
+/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 4 Makhmudyan/Задача 29/obj/Debug/net6.0/Задача 29.pdb
+/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 4 Makhmudyan/Задача 29/obj/Debug/net6.0/Задача 29.genruntimeconfig.cache
+/Users/Marianna/Desktop/GeekBrains/Homeworks/C# Homeworks Makhmudyan/C# Homework 4 Makhmudyan/Задача 29/obj/Debug/net6.0/ref/Задача 29.dll
