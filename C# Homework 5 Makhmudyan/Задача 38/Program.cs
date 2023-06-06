@@ -34,6 +34,4 @@ for (int i = 0; i < baseArray.Length; i++)
     }
 }
 
-Console.WriteLine($"Минимальное число: {min}");
-Console.WriteLine($"Максимально число: {max}");
-Console.WriteLine($"Разница между максимальным и минимальны числами: {max-min}");
+Console.WriteLine($"[ {String.Join( ", ", elements)} ] -> {max} - {min} = {max-min}");
