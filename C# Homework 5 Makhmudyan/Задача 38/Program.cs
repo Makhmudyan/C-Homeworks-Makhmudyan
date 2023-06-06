@@ -28,7 +28,7 @@ for (int i = 0; i < baseArray.Length; i++)
     {
         max = baseArray[i];
     }
-    else if (baseArray[i] < min)
+    if (baseArray[i] < min)
     {
         min = baseArray[i];
     }
