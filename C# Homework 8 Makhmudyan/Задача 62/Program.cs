@@ -11,20 +11,97 @@ Clear();
 int a = 4;
 int b = 4;
 
-//int [,] matrix = new int [a,b];
-int[,] GetMatrixArray(int a, int b)
+int[,] GetArray(int a, int b)
 {
     int[,] result = new int[a, b];
-    for (int i = 0; i < result.GetLength(0); i++)
+    int i = 0;
+    int j = 0;
+    int rowE = a - 1;
+    int columnE = b - 1;
+    int rowS = 0;
+    int columnS = 0;
+    bool left = true;
+    bool top = true;
+    int count = 0;
+    while (count < a * b)
     {
-        for (int j = 0; j < result.GetLength(1); j++)
+        count++;
+        result[i, j] = count;
+        //идем вправо
+        if (left && top)
         {
-            result[i, j] = 0;
+            if (j == columnE)
+            {
+                rowS++;
+                top = true;
+                left = false;
+                i++;
+                continue;
+            }
+            else
+            {
+                j++;
+                continue;
+            }
         }
+        //идем вниз
+        if (!left && top)
+        {
+            if (i == rowE)
+            {
+                columnE--;
+                top = false;
+                left = false;
+                j--;
+                continue;
+            }
+            else
+            {
+                i++;
+                continue;
+            }
+        }
+        //идем влево
+        if (!left && !top)
+        {
+            if (j == columnS)
+            {
+                rowE--;
+                top = false;
+                left = true;
+                i--;
+                continue;
+            }
+            else
+            {
+                j--;
+                continue;
+            }
+        }
+        //Идем вверх
+        if (left && !top)
+        {
+            if (i == rowS)
+            {
+                columnS++;
+                top = true;
+                left = true;
+                j++;
+                continue;
+            }
+            else
+            {
+                i--;
+                continue;
+            }
+        }
+
     }
     return result;
 }
-/*
+
+
+
 void PrintArray(int[,] arr)
 {
     for (int i = 0; i < arr.GetLength(0); i++)
@@ -37,42 +114,4 @@ void PrintArray(int[,] arr)
     }
 }
 
-PrintArray(GetMatrixArray(a,b));
-*/
-
-GetMatrixArray(a, b);
-WriteLine();
-
-int [,] re = GetMatrixArray(a,b);
-
-void FillImage(int [,] arr)
-{
-
-    if (arr[arr.GetLength(0), arr.GetLength(1)] == 0)
-    {
-        
-        FillImage(GetMatrixArray(arr.GetLength(0) - 1, arr.GetLength(1)));
-        FillImage(GetMatrixArray(arr.GetLength(0), arr.GetLength(1) - 1));
-        FillImage(GetMatrixArray(arr.GetLength(0) + 1, arr.GetLength(1)));
-        FillImage(GetMatrixArray(arr.GetLength(0), arr.GetLength(1) + 1));
-       
-        
-    }
-}
-
-void PrintImage(int[,] image)
-{
-    for (int i = 0; i < image.GetLength(0); i++ )
-    {
-        int count = 0;
-        for( int j = 0; j < image.GetLength(1); j++)
-        {
-            Console.Write($"{count++} ");
-            //if(image[i,j] == 0) Console.Write($"{count++} ");
-        }
-    Console.WriteLine();
-    }
-} 
-
-FillImage(re);
-PrintImage(re);
+PrintArray(GetArray(a, b));
